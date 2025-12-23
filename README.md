@@ -6,3 +6,5 @@ help - shows commands
 echo - repeats the thing ou write after writing echo
 exit - leaves cmd
 clear -  clears all previous commands
+
+open source terminal program
